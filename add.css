@@ -1,0 +1,101 @@
+body{
+    background:url("https://www.wework.com/ideas/wp-content/uploads/sites/4/2015/04/steve-baker-flickr-colonel-sanders-edit1.jpg?fit=3107%2C1583");
+    background-size: 800px 800px;
+}
+
+ul a{
+   text-decoration: none;
+}
+
+ul a{
+   display: inline-block;
+   padding-inline: 50px;
+   vertical-align:text-bottom;
+}
+ul a:hover{
+   color: rgba(72, 42, 204, 0.984);
+   font-size: 20px;
+}
+header{
+   background-image: linear-gradient(to right, rgb(236, 33, 6));
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif,cursive;
+   font-size: large;
+   height: 200px;
+}
+ul{
+   display: inline-block;   
+   padding-inline: 50px;
+   vertical-align:text-bottom;
+
+}
+#about{
+   text-align: left;
+   background-image: url("bgg.jpg");
+   color:crimson(187, 226, 13);
+   font-size:x-large;
+   padding: 3%;
+   text-decoration: none;
+   
+}
+
+#about a{
+   text-decoration: none;
+   color:rgb(27, 92, 177);
+}
+.grid img{
+border-radius: 10%;
+margin-left: 50px;
+margin-top: 60px;
+}
+.grid1{
+   display: grid;
+   display: flex;
+   padding: 30px;
+
+   
+}
+.grid1 h1{
+   text-align: right;
+}
+.grid{
+   
+   display: grid;
+   display: flex;
+   
+}
+#about h1{
+   text-align: center;
+   color:blueviolet;
+   font-size: xx-large;
+}
+h2{
+   text-align: center;
+   color:white;
+   font-size: xx-large;
+}
+#about pre{
+   color:white;
+}
+#products img {
+   display: block;
+   display: flex;
+ border-radius: 50%;
+ padding-left: 900px;
+ }
+ #products  pre{
+   color:white;
+}
+#contact form{
+   display: block;
+   width: 300px;
+   height: 300px;
+   padding: 5px;
+   border: 1px solid:violet;    
+   background-color: yellow; 
+   border: 5px solid transparent ;
+   background-image:linear-gradient(to right,violet,whitesmoke);
+   padding: 5px;
+   border-image: url("https://images.vexels.com/media/users/3/115539/raw/47d5ae03fb7ce7ed71110e5213d8cdcd-simple-and-practical-border-vector-series-2-50p.png") 30 round;
+
+
+}
